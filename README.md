@@ -25,4 +25,5 @@ This repository contains Python scripts that:
 
 **Get started and start simulating physics today!** ✨
 
-![Artboard – 3](https://github.com/user-attachments/assets/e46e91a1-45d5-4149-86ce-d02ce0156eba)
+<img width="4958" height="2480" alt="Artboard – 3" src="https://github.com/user-attachments/assets/b43078c9-b4ca-4e4f-a4f9-78dfb3ce9352" />
+
